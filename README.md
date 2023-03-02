@@ -1,7 +1,7 @@
 ﻿# Firebase-Exercice
 
 
-Petit projet pour prendre en main Firebase.
+## Petit exercice pour prendre en main Firebase.
 
 Vous pouvez vous connecter avec Google auth. </br>
 <img src="https://user-images.githubusercontent.com/95346160/222482136-ef80879c-2b6a-4d8c-8d8d-35e4bbccd878.png" alt="" /> </br>
